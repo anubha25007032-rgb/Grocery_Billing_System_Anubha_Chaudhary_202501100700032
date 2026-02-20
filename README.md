@@ -3,9 +3,9 @@ Grocery Store Billing System using Python
 Student Details
 
 Name: Anubha Chaudhary
-Roll No: (Write your roll number)
+Roll No: 202501100700032
 Branch: ECE
-Section: (Your section)
+Section: A
 
 ---
 
